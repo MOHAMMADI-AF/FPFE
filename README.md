@@ -6,6 +6,8 @@ This App will allow you to keep track of your document(s); whenever you need, yo
 Who can use this App: This is a practice project with basic features at the current stages; the next version will have new features to make it better with minimum functionality for a document tracking App and easy access and use for everyone interested.
 What is the intention of building this App? This final project of the software engineering boot camp.
 
+![](images/App.png)
+
 ## Demo link:
 
 - Not available
