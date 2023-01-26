@@ -56,7 +56,3 @@ MongoDB, Express, React & NodeJS and dependencies
 - nodemon
 
 or edit the package.json files to configure the scripts and run the FrontEnd and Backend together in React.js and Express.js with 'concurrently' package
-
-# Status
-
-### Online for testing purposes
